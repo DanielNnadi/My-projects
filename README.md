@@ -16,7 +16,7 @@ Rebuilt production SQL databases with normalized schemas and strategic indexing 
 - Query Optimization
 
 ## Live Case Study
-https://danielnnadi.github.io/My-projects Portfolio/
+https://danielnnadi.github.io/My-projects/
 
 ## Author
 Nnadi Daniel – [LinkedIn](https://www.linkedin.com/in/danielnnadi)
