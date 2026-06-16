@@ -1,4 +1,4 @@
-# SQL Optimization Portfolio
+# My-projects Portfolio
 
 ## Project Overview
 Rebuilt production SQL databases with normalized schemas and strategic indexing at Defem Autocare and the Federal Ministry of Works.
@@ -16,7 +16,7 @@ Rebuilt production SQL databases with normalized schemas and strategic indexing 
 - Query Optimization
 
 ## Live Case Study
-https://danielnnadi.github.io/sql-optimization-portfolio/
+https://danielnnadi.github.io/My-projects Portfolio/
 
 ## Author
 Nnadi Daniel – [LinkedIn](https://www.linkedin.com/in/danielnnadi)
